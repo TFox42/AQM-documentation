@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'AQM'
+copyright = '2022, HTL Villach'
+author = 'Benedikt Gruber'
 
 release = '0.1'
 version = '0.1.0'
