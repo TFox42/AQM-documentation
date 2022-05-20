@@ -5,14 +5,9 @@ Welcome to AQM's documentation!
 
 Check out the :doc:`usage` section for further information.
 
+You can find all the necessary ressources under the following GitHub-Repository:
+https://github.com/felixslama/aqm
+
 .. note::
 
    This project is under active development.
-
-Contents
---------
-
-.. toctree::
-   
-   setting it up
-   usage
